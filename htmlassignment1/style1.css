@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    
+}
+.main-h1{
+    color: white;
+    text-align: center;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+.main{
+    text-align: center;
+    border-color: transparent;
+    border-width: 0px;
+    align-self:center;
+    width: 400px;
+    height: 250px;
+    float:left;
+    
+}
+.terminal{
+    background-color: blue;
+}
+.lop{
+    background-color: red;
+}
+.mucize{
+    background-color: blue;
+}

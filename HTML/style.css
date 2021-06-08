@@ -1,0 +1,35 @@
+.main-head{
+    color:purple; 
+    text-align:center; 
+    
+}
+.sub{
+    color: rebeccapurple;
+}
+.main{
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    width: 200px;
+    height: 250px;
+    text-align: center;
+    float: left;
+    border-radius: 10px;
+}
+.redmi{
+    background-color: purple;
+}
+.samsung{
+    background-color: rebeccapurple;
+}
+.poco{
+    background-color: seagreen;
+}
+.h1{
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+body{
+    background-color: black;
+}

@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+body{
+    background-color: black;
+}
+.mainhead{
+    font-family: 'Architects Daughter', cursive;
+    color: white;
+    text-align: center;
+}
+.row1{
+    width: 100%;
+  margin-left: 34%;
+  margin-right: 34%;
+}
+.row2{
+    width: 100%;
+  float: left;
+  margin-right: 28%;
+  margin-left: 28%;
+}
+.row3{
+    width: 100%;
+  float: left;
+  margin-right: 22%;
+  margin-left: 22%;
+}
+
+.col1{
+    border: 6px solid black;
+   
+   width: 70px;
+    height: 100px;
+    float: left;  
+}
+
+
+.blue1{
+    background-color: blue;
+   
+    
+}
+.blue2{
+    background-color: blueviolet;
+   
+}
+.green1{
+    background-color: green;
+    
+
+}
+.green2{
+    background-color: lightgreen;
+  
+}
+.ash{
+    background-color: grey;
+    
+}
+.red{
+    background-color: red;
+}
+.orange{
+    background-color: orange;
+}

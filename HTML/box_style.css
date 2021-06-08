@@ -1,0 +1,16 @@
+.main{
+    border: 1px solid black;
+    width: 700px;
+    height: 100px;
+}
+.top{
+    margin-left: 250px;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.bottom{
+    margin-top: 200px;
+    margin-left: 250px;
+    padding: 50px;
+}
