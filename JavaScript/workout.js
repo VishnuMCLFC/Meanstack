@@ -9,3 +9,15 @@ console.log(a<b);
 console.log(a=b);
 console.log(a<=b);
 console.log(a!=b);
+
+var num1=10;
+var num2="10";
+
+console.log(num1==num2);
+console.log(num1===num2);
+
+
+//logical op  (&, |, ^)  and, or, xor
+
+console.log(2|4);
+console.log(2^4);
