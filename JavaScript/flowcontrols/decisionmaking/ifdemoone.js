@@ -41,6 +41,7 @@ else{
     console.log("Both are equal");
 }*/
 
+/* console.log(num1>num2?num1:num2>num1?num2:"Both are equal"); */
 var num=75;
 if(num%15==0)
 {

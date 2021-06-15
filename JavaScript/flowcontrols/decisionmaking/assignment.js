@@ -17,3 +17,5 @@ else if(b>c)
 else{
     console.log(c," Is bigger");
 }
+
+/*console.log((a>b)&(a>c)?a:(b>a)&(b>c)?b:c);*/
