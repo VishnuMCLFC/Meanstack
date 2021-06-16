@@ -1,6 +1,6 @@
 var a=0,b=1,n=10,i=1;
 
-console.log(a,b);
+console.log(a,"\n",b);
 var res=a+b;
 while(i<=n)
 {   
