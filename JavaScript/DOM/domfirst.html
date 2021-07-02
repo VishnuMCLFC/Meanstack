@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<head>
+<title>Document</title>
+</head>
+<body>
+<h1>Document Object Model</h1>
+<h2>DOM attributes</h2>
+<ul>
+    <li name="lit">URL</li>
+    <li>HEAD</li>
+    <li>LINKS</li>
+    
+</ul>
+<h2 id="htwo">Document Object Model Methods</h2>
+
+<ul>
+    <li class="one">document.getElementsByTagName()</li>
+    <li id="list">document.getElementById()</li>
+    <li class="one">document.getElementsByClassName()</li>
+    <li>document.getElementsByName()</li>
+    <li>document.querySelector()</li>
+    <li>document.querySelectorAll()</li>
+    
+    <a href="">one</a>
+    <a href="">two</a>
+    <a href="">three</a>
+</ul>
+</body>
+<script>
+ /*   var lis=document.getElementsByTagName("li");
+    for(let tag of lis)
+{
+    tag.style.color="green";
+}
+
+var item=document.getElementById("list");
+item.style.color="Orange";
+
+var items=document.getElementsByClassName("one");
+for(let tag of items)
+{
+    tag.style.color="blue";
+}
+
+var lt=document.getElementsByName("lit");
+for(let tag of lt)
+{
+tag.style.color="purple";
+}*/
+
+/*var list=document.querySelectorAll("li");
+for(let tag of list)
+{
+    tag.style.color="cyan";
+}*/
+
+var dc=document.querySelectorAll(".one");
+for(let tag of dc)
+{
+    tag.style.color="yellow";
+}
+
+var lits=document.querySelector("li");
+lits.style.color="green";
+
+var litt=document.querySelector("#htwo");
+
+   litt.style.color="red";
+
+
+    var htwo=document.querySelector("h2");
+    htwo.textContent="DocumentObjectMethodModel";  
+    htwo.style.color="cyan"; 
+    </script>
+</html>
+
+
+<!--object (Attributes and methods)-->
+
+<!--
+   var document={
+       URL:"current url"
+    
+       
+   }
+-->
